@@ -9,3 +9,14 @@
 </div>
 
 [![gitanimals](https://render.gitanimals.org/farms/Dearkimm)](https://github.com/devxb/gitanimals)
+
+---
+
+### Featured Project — [Jenna's Portfolio](https://portfolio-pi-cyan-fzcirn5lpo.vercel.app)
+
+| 분류 | 기술 |
+|------|------|
+| Framework | Next.js 16 (App Router) |
+| Language | TypeScript |
+| Styling | Tailwind CSS v4 |
+| Deploy | Vercel (git push → 자동 배포) |
