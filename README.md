@@ -7,3 +7,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dearkimm@sookmyung.ac.kr)](mailto:dearkimm@sookmyung.ac.kr)
 
 </div>
+
+[![gitanimals](https://render.gitanimals.org/farms/Dearkimm)](https://github.com/devxb/gitanimals)
