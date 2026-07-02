@@ -1,0 +1,9 @@
+### BI Data Analyst
+
+<div align=center>
+
+[![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white&link=https://portfolio-pi-cyan-fzcirn5lpo.vercel.app)](https://portfolio-pi-cyan-fzcirn5lpo.vercel.app)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B9%80%EC%A0%95%EB%AF%BCjenna)](https://www.linkedin.com/in/%EA%B9%80%EC%A0%95%EB%AF%BCjenna)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dearkimm@sookmyung.ac.kr)](mailto:dearkimm@sookmyung.ac.kr)
+
+</div>
