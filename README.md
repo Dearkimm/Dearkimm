@@ -1,5 +1,3 @@
-### BI Data Analyst
-
 ### Featured Project — [Jenna's Portfolio](https://portfolio-pi-cyan-fzcirn5lpo.vercel.app)
 
 | 분류 | 기술 |
